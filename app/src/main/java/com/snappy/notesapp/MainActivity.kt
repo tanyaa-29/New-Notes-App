@@ -20,6 +20,7 @@ class MainActivity : AppCompatActivity() {
             insets
         }
         binding.text.text="hye!"
+        binding.text.text="hye! Aman"
     }
 
 }
